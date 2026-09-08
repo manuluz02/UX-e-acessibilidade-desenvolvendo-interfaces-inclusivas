@@ -81,6 +81,7 @@ section,
 
 /* Esconde o modal por padrão e cria o fundo escurecido */
 .modal-fundo {
+  display: none;
   position: fixed;
   z-index: 1000;
   left: 0;
