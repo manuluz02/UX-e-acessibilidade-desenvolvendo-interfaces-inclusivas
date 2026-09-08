@@ -1,5 +1,5 @@
-let btnAjuda = document.querySelector(".botao-help");
-let bntFechar  = document.querySelector(".botao-close");
+let btnAjuda = document.querySelector(".btn-help");
+let bntFechar  = document.querySelector(".btn-close");
 let modal = document.querySelector(".modal-fundo");
 
 btnAjuda.addEventListener("click", abreModal);
